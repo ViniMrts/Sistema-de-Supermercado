@@ -40,3 +40,14 @@ npm run migrate
 
 # Inicie o servidor
 npm start
+
+
+📄 Licença
+
+Este projeto está sob a licença MIT.
+Sinta-se à vontade para usar e modificar como quiser!
+
+👨‍💻 Autor
+
+Vinicius Martins
+LinkedIn: [Vinicius Martins](https://www.linkedin.com/in/vinicius-martins-2b4836209/)
